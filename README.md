@@ -13,3 +13,4 @@ Ensemble methods combining the strengths of multiple models could potentially im
 Further validation on real-world data and exploration of additional techniques are suggested.
 
 The report highlights the effectiveness of data mining models in filtering spam emails and provides insights for network security and email communication systems.
+Dataset Link: https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
